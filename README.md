@@ -8,7 +8,7 @@ Project Descriptions
 -Difficulty levels can be adjusted for a personalized learning experience.
 -Users receive feedback on their answers, including explanations for incorrect choices.
 
-Rock-Paper-Scissors Game:
+2.Rock-Paper-Scissors Game:
 -The user plays against the computer by choosing between "Rock," "Paper," and "Scissors."
 -The computer's selection is randomized, adding an element of chance.
 -Results are displayed, informing the user of wins, losses, or ties.
